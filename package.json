@@ -1,0 +1,9 @@
+{
+	"name": "pome-globalchannel-plugin",
+	"version": "0.0.7",
+	"private": false,
+	"dependencies": {
+  		"redis": "^2.6.3",
+  		"pome-logger": "^0.1.5"
+	}
+}
